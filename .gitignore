@@ -1,1 +1,3 @@
 *.pyc
+secret_key.txt
+settings/local*.py
